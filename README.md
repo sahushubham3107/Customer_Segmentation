@@ -1,2 +1,4 @@
 # Customer_Segmentation
-Classification of customers using K-Means algorithm and also clustering them to find their spending 
+•	Classified customers into-5 different clusters using K-means algorithm to find the spending of customers using Python 
+•	Applied the algorithm for Optimum no. of clusters along with CG & Visualization of the clusters to classify customers
+
